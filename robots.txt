@@ -1,0 +1,27 @@
+User-agent: *
+Allow: /
+
+User-agent: Yandex
+Allow: /
+Clean-param: utm_source&utm_medium&utm_campaign&utm_content&utm_term
+
+# AI-поисковики и ассистенты (GEO)
+User-agent: GPTBot
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: Claude-User
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: YandexAdditional
+Allow: /
+
+Host: https://v1syun.ru
+Sitemap: https://v1syun.ru/sitemap.xml

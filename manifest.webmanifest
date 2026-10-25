@@ -1,0 +1,13 @@
+{
+  "name": "Висюн — брелки, антистрессы и футболки",
+  "short_name": "Висюн",
+  "lang": "ru",
+  "start_url": "./",
+  "display": "browser",
+  "background_color": "#FFF6E9",
+  "theme_color": "#FFF6E9",
+  "icons": [
+    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "img/logo-s.webp", "sizes": "480x480", "type": "image/webp" }
+  ]
+}

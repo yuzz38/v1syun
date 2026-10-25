@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://v1syun.ru/</loc>
+    <lastmod>2026-10-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image><image:loc>https://v1syun.ru/img/worms-hand.webp</image:loc><image:title>Плюшевые антистрессы Висюн</image:title></image:image>
+    <image:image><image:loc>https://v1syun.ru/img/pink-worms.webp</image:loc><image:title>Червячки-антистрессы из фетра</image:title></image:image>
+    <image:image><image:loc>https://v1syun.ru/img/pet-cat.webp</image:loc><image:title>Брелок-котик по фото питомца</image:title></image:image>
+    <image:image><image:loc>https://v1syun.ru/img/dino-cat.webp</image:loc><image:title>Антистрессы динозаврик и котик</image:title></image:image>
+    <image:image><image:loc>https://v1syun.ru/img/tee-suki-box.webp</image:loc><image:title>Футболка с буквами из фетра</image:title></image:image>
+    <video:video>
+      <video:thumbnail_loc>https://v1syun.ru/video/worm.webp</video:thumbnail_loc>
+      <video:title>Тревожный червяк — антистресс для рук</video:title>
+      <video:description>Розовый червячок-антистресс из фетра ручной работы, 549 ₽.</video:description>
+      <video:content_loc>https://v1syun.ru/video/worm.mp4</video:content_loc>
+    </video:video>
+  </url>
+</urlset>
